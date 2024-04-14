@@ -38,6 +38,14 @@ python app.py
 
 Then you can access the application on your browser by going to [`http://localhost:8050/`](http://localhost:8050/).
 
+You can then enter your parameters, press start to start the simulation and see the evolution of the individual over time.
+
+You can also stop and pause the simulation at any time using the stop button.
+
+And you can reset the simulation using the reset button.
+
+If you change the parameters, the simulation should reset when started again.
+
 
 ## Comments
 
