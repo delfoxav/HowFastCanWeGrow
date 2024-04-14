@@ -36,7 +36,7 @@ To run the application, you can simply run the following command:
 python app.py
 ```
 
-Then you can access the application on your browser by going to `http://localhost:8050/`.
+Then you can access the application on your browser by going to [`http://localhost:8050/`](http://localhost:8050/).
 
 
 ## Comments
